@@ -42,14 +42,14 @@
       "requirements": {
         "scopes": ["workbook"],
         "capabilities": [
-          { "name": "AddinCommands", "minVersion": "1.3" }
+          { "name": "AddinCommands", "minVersion": "1.1" }
         ]
       },
       "runtimes": [
         {
           "requirements": {
             "capabilities": [
-              { "name": "AddinCommands", "minVersion": "1.3" }
+              { "name": "AddinCommands", "minVersion": "1.1" }
             ]
           },
           "id": "TaskPaneRuntime",
