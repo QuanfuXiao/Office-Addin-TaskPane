@@ -91,7 +91,7 @@
           ],
           "tabs": [
             {
-              "builtInTabId": "TabDefault",
+              "builtInTabId": "TabHome",
               "groups": [
                 {
                   "id": "msgReadGroup",
